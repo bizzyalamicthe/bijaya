@@ -1,0 +1,26 @@
+body{
+    background-image: url(op.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size:cover;
+
+}
+h1{
+    background: linear-gradient(tor right,skyblue,white);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    border-style: double;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    border-color: blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+p{
+    background:linear-gradient(to right,skyblue,white);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}

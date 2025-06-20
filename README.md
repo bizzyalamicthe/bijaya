@@ -1,2 +1,0 @@
-# bijaya
-my file

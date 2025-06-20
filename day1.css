@@ -1,0 +1,29 @@
+h2 {
+        color: brown;
+        background-color: aqua;
+      }
+p {
+        border-style: double;
+        border-width: 5px;
+        border-color: gold;
+        border-radius: 10x;
+        padding: 5px;
+}
+.odd{ 
+        border-style: dashed;
+        border-width: 5px;
+        border-color: rgb(162, 0, 255);
+        border-radius: 10x;
+        padding: 5px;
+
+}
+.even{ 
+        border-style: solid;
+        border-width: 5px;
+        border-color: rgb(123, 255, 0);
+        border-radius: 10x;
+
+}
+body{
+        background-image: url(op.jpg);
+}
